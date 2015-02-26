@@ -1,0 +1,104 @@
+\form#0:$1.60217738 \cdot 10^{-19} C$
+\form#1:$9.1093897 \cdot 10^{-31}$
+\form#2:$1.6726230 \cdot 10^{-27}$
+\form#3:$1.6749286 \cdot 10^{-27}$
+\form#4:$mol^{-1}$
+\form#5:$6.0221367 \cdot 10^{23} mol^{-1}$
+\form#6:$1.380657 \cdot 10^{-23}$
+\form#7:$6.6260754 \cdot 10^{-34}$
+\form#8:$5.29177249 \cdot 10^{-11}$
+\form#9:$C^2J^{-1}m^{-1}$
+\form#10:$8.85419 \cdot 10^{-12} C^2J^{-1}m^{-1}$
+\form#11:$Js^2C^{-2}m^{-1}$
+\form#12:$4\pi \cdot 10^{-7} Js^2C^{-2}m^{-1}$
+\form#13:$2.99792458 \cdot 10^8 ms^{-1}$
+\form#14:$Nm^2kg^{-2}$
+\form#15:$6.67259 \cdot 10^{-11} Nm^2kg^{-2}$
+\form#16:$7.29735 \cdot 10^{-3}$
+\form#17:\[\mathrm \varepsilon = 4 r_{ij}\nonumber \]
+\form#18:$ {\AA}/ps $
+\form#19:$ \begin{array}{ccccccccc} a_{1,1} x_1 & + & a_{1,2} x_2 & + & \ldots & + & a_{1,n} x_n & = & a_{1,(n+1)} \\ a_{2,1} x_1 & + & a_{2,2} x_2 & + & \ldots & + & a_{2,n} x_n & = & a_{2,(n+1)} \\ \vdots & & \vdots & & \ddots & & \vdots & & \vdots \\ a_{n,1} x_1 & + & a_{n,2} x_2 & + & \ldots & + & a_{n,n} x_n & = & a_{n,(n+1)} \\ \end{array} $
+\form#20:$x = (x_1, x_2,\ldots x_N)$
+\form#21:$n\times(n+1)$
+\form#22:$ a_{1,1}, a_{1,2}, \cdot, a_{1,(n+1)}, a_{2,1}, \ldots a_{n,(n+1)} $
+\form#23:$a_1 x_1 + b_1 x_2 = c_1$
+\form#24:$a_2 x_1 + b_2 x_2 = c_2$
+\form#25:$x^2 + b x + c = 0$
+\form#26:$0 \le \mathtt{angle} \le 360, 0 \le angle \le 2 \pi$
+\form#27:$-180 \le \mathtt{angle} \le 180, -\pi \le \mathtt{angle} \le \pi$
+\form#28:$\{x|y|z|\} *= \sqrt{x^2 + y^2 + z^2}$
+\form#29:$var1=atan(.5); sin(cos(atan(asin(exp(X+var1)))))$
+\form#30:$X$
+\form#31:$p$
+\form#32:\[\sum_{i=0}^{d} a_i^{(k)} (x - x_0^{(k)})^i\]
+\form#33:$k$
+\form#34:$d$
+\form#35:$\{x|y|z\} *= \sqrt{x^2 + y^2 + z^2}$
+\form#36:$\sqrt{x^2 + y^2}$
+\form#37:$x^2 + y^2$
+\form#38:$\{x|y|z\} *= \sqrt{x^2 + y^2}$
+\form#39:$2 \pi$
+\form#40:$\pi$
+\form#41:\[ x = r \sin \theta \cos \phi \]
+\form#42:\[ y = r \sin \theta \sin \phi \]
+\form#43:\[ z = r \cos \theta \]
+\form#44:$\sqrt{x^2 + y^2 + z^2}$
+\form#45:$x^2 + y^2 + z^2$
+\form#46:$\sqrt{x^2 + y^2 + z^2 + h^2}$
+\form#47:$x^2 + y^2 + z^2 + h^2$
+\form#48:$\{x|y|z|h\} *= \sqrt{x^2 + y^2 + z^2 + h^2}$
+\form#49:${\AA}$
+\form#50:$\geq 0$
+\form#51:$g^T \cdot g$
+\form#52:$g$
+\form#53:$step\cdot|direction|$
+\form#54:\[E_{k+1} \leq E_k + \alpha\cdot stp\cdot<g_k, d_k>\]
+\form#55:\[|<g_{k+1}, d_k>| \leq \beta\cdot |<g_k, d_k>|\]
+\form#56:$g_k$
+\form#57:$g_{k+1}$
+\form#58:$d_k$
+\form#59:$E_{k+1}$
+\form#60:$E_k$
+\form#61:$\alpha$
+\form#62:$\beta$
+\form#63:$-U_k \cdot U_k^T \cdot g_k$
+\form#64:$U_k$
+\form#65:$A_{ij}$
+\form#66:$B_{ij}$
+\form#67:\[ B_{ij} = \frac{3}{2} \left(\frac{1}{4 \pi \varepsilon_0}\right)^\frac{1}{2} \frac{e \hbar \sqrt{m_e} \alpha_i \alpha_j}{\sqrt{\frac{\alpha_i}{N_i} + \sqrt{\frac{\alpha_j}{N_j}}}} \]
+\form#68:\[ A_{ij} = \frac{1}2{} B_{ij} (R_i + R_j)^6 \]
+\form#69:\[ S(\delta) = \sum_{i} \frac{h_i}{w_i (\delta_i-\delta)^2} \]
+\form#70:$\delta$
+\form#71:$\delta_i$
+\form#72:$h_i$
+\form#73:$w_i$
+\form#74:$ \sqrt{k(x_*,x_*)-\sum_{i=1}^n \sum_{j=1}^n k(x_*,x_i)*k(x_*,x_j)-L_{ij} } $
+\form#75:$ \sum_{i=1}^m (input_{ai} * input_{bi})^p $
+\form#76:$ g(\sum_{i=1}^m f(input_{ai}, input_{bi})) $
+\form#77:$ \sum_{i=1}^m (m1_{ai} * m2_{bi})^p $
+\form#78:$ g(\sum_{i=1}^m f(m1_{ai}, m2_{bi})) $
+\form#79:$ dist(a,b)= g(\sum_{i=1}^m f(x1,x2)) $
+\form#80:$ \sum_{i=1}^m w_i * (input_{ai}- input_{bi})^2 $
+\form#81:$ \sum_{i=1}^m w_i * (m1_{ai}- m2_{bi})^2 $
+\form#82:$ sqrt(\sum_i (row1_i-row2_i)^2) $
+\form#83:$ sqrt(\sum_i cv_i^2) $
+\form#84:$ sqrt(\sum_i (cv1_i-cv2_i)^2) $
+\form#85:$ cv^T*cv = \sum_i cv_i^2 $
+\form#86:$\varepsilon$
+\form#87:$\bar{\kappa}$
+\form#88:\[ \phi_{x,y,z} = \sum_i \frac{1}{4 \pi \varepsilon \varepsilon_0} \frac{q_i}{r} e^{-\frac{r}{d}} \]
+\form#89:\[ \varepsilon_0 = \frac{1}{27} \left( \sum_{i=1}^{26} \varepsilon_i + \varepsilon_0 \right) \]
+\form#90:\[ \varepsilon_0 = \frac{1}{\sum_{i=1}^{26} \frac{1}{\varepsilon_i} + \frac{1}{\varepsilon_0}} \]
+\form#91:$\mathrm{J}\cdot\mathrm{mol}^{-1}\cdot A^{-2}$
+\form#92:$C$
+\form#93:$\gamma A$
+\form#94:$\mathrm{J}\cdot\mathrm{mol}^{-1}$
+\form#95:$5.41 \mathrm{cal}\cdot\mathrm{mol}^{-1}\cdot A^{-2} = 22.635 \mathrm{J}\cdot\mathrm{mol}^{-1}\cdot A^{-2}$
+\form#96:$6 \mathrm{cal}\cdot\mathrm{mol}^{-1}\cdot A^{-2} = 25.1 \mathrm{J}\cdot\mathrm{mol}^{-1}\cdot A^{-2}$
+\form#97:$0.921 \mathrm{kcal}\cdot\mathrm{mol}^{-1} = 3.855 \mathrm{kJ}\cdot\mathrm{mol}^{-1}$
+\form#98:$\AA^2$
+\form#99:$\AA^3$
+\form#100:$\chi_1$
+\form#101:$\chi_2$
+\form#102:$\chi_3$
+\form#103:$\chi_4$
