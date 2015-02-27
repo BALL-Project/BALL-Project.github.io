@@ -1,0 +1,189 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="generator" content=
+"HTML Tidy for Linux/x86 (vers 6 November 2007), see www.w3.org" />
+<meta http-equiv="Content-Type" content=
+"text/html; charset=us-ascii" />
+<title>BALLView Documentation &#8212; The BALL Website</title>
+<base href=
+"http://ball-docs.bioinf.uni-sb.de/BALLView/V1.3/index.html" />
+<!-- Basic crude style for Netscape4.x - This can be removed
+         if you don't want the special NS4 look - it will still work,
+         just be plain text instead. Column layout for Netscape4.x included -->
+<link rel="Stylesheet" type="text/css" href=
+"http://www.ball-project.org/ploneNS4.css" />
+<!-- Column style sheet. -->
+
+<style type="text/css" media="screen">
+/*<![CDATA[*/
+<!-- @import url(http://www.ball-project.org/ploneColumns.css); -->
+/*]]>*/
+</style>
+<!-- Main style sheets for CSS2 capable browsers -->
+
+<style type="text/css" media="screen">
+/*<![CDATA[*/
+<!-- @import url(http://www.ball-project.org/plone.css); -->
+/*]]>*/
+</style>
+<!-- Alternate style sheets for the bigger/smaller text switcher -->
+<link rel="alternate stylesheet" type="text/css" media="screen"
+href="http://www.ball-project.org/ploneTextSmall.css" title=
+"Small Text" />
+<link rel="alternate stylesheet" type="text/css" media="screen"
+href="http://www.ball-project.org/ploneTextLarge.css" title=
+"Large Text" /><!-- Style sheet used for printing -->
+<link rel="stylesheet" type="text/css" media="print" href=
+"http://www.ball-project.org/plonePrint.css" />
+<!-- Style sheet used for presentations (Opera is the only browser supporting this at the moment) -->
+<link rel="stylesheet" type="text/css" media="projection" href=
+"http://www.ball-project.org/plonePresentation.css" />
+<!-- Internet Explorer CSS Fixes -->
+<!--[if IE]>
+    <style type="text/css" media="all">@import url(http://www.ball-project.org/ploneIEFixes.css);</style>
+    <![endif]-->
+<!-- Custom style sheet if available -->
+
+<style type="text/css" media="all">
+/*<![CDATA[*/
+<!-- @import url(http://www.ball-project.org/ploneCustom.css); -->
+/*]]>*/
+</style>
+<!-- Disable IE6 image toolbar -->
+<meta http-equiv="imagetoolbar" content="no" />
+</head>
+<body>
+<h1 class="documentFirstHeading">BALLView Documentation</h1>
+<div class="documentActions">
+<h5 class="hiddenStructure">Document Actions</h5>
+</div>
+<div class="documentDescription">Documentation for BALL 1.3</div>
+<div class="plain">
+<div align="center">
+<table width="700" border="0" cellpadding="0">
+<tr>
+<td>
+<div align="center">
+<h1>BALLView 1.3 Documentation</h1>
+<p align="justify">BALLView is a free molecular modeling and
+molecular graphics tool. It provides fast OpenGL-based
+visualization of molecular structures, molecular mechanics methods
+(minimization, MD simulation using the AMBER, CHARMM, and MMFF94
+force fields), molecular editing, as well as calculation and
+visualization of electrostatic properties (FDPB).</p>
+</div>
+<!--
+<img src="images/gui.png" border=0 usemap="#gui">
+      <map name="gui">
+          <area shape="rect" coords="3,44,289,235" href="datasetControl_html">
+          <area shape="rect" coords="2,234,342,607" href="molecularControl_html">
+          <area shape="rect" coords="290,43,596,234" href="logView_html">
+          <area shape="rect" coords="596,43,903,236" href="pythonInterpreter_html">
+          <area shape="rect" coords="2,607,342,740" href="geometricControl_html">
+          <area shape="rect" coords="342,234,906,746" href="scene_html">
+      </map>
+      <br>
+-->
+<h2>Description of the main window</h2>
+<p>Click on any of the widgets either in the image above or in the
+following list to get detailed information.</p>
+<div align="left">
+<ul align="left">
+<li><a href="scene_html">3D view</a></li>
+<li><a href="molecularControl_html">Structures</a></li>
+<li><a href="geometricControl_html">Representations</a></li>
+<li><a href="logView_html">Logs</a></li>
+<li><a href="datasetControl_html">Datasets</a></li>
+<li><a href="pythonInterpreter_html">Python interpreter</a></li>
+<li><a href="displayProperties_html">Model properties</a></li>
+</ul>
+</div>
+<h2>How to ...</h2>
+<div align="left">
+<ul align="left">
+<li><a href="tips_html#help">obtain help in BALLView</a></li>
+<li><a href="tips_html#cite">cite BALL and BALLView</a></li>
+<li style="list-style: none"><br /></li>
+<li><a href="scene_html#identify_atoms">identify a specific part of
+a molecule in the 3D view</a></li>
+<li><a href="molecularControl_html#find_atom">find an atom in the
+3D view</a></li>
+<li><a href="molecularControl_html#regular_expressions">select
+atoms through expressions</a></li>
+<li><a href="molecularControl_html#selection_highlight">create a
+Representation for selected items</a></li>
+<li><a href="molecularControl_html#identify_bond">identify the type
+and order of a bond</a></li>
+<li><a href="molecularControl_html#measure_distance">measure
+distances and angles between atoms</a></li>
+<li><a href="molecularControl_html#count_atoms">count atoms and
+bonds in molecules, chains, residues, ..</a>.</li>
+<li><a href="molecularControl_html#merge_systems">merge systems,
+e.g. from two distinct PDB files</a></li>
+<li><a href="molecularControl_html#merge_systems">remove unwanted
+parts of molecules</a></li>
+<li><a href="molecularControl_html#move_molecule">move
+atoms</a></li>
+<li><a href="scene_html#editing">create and edit molecules</a></li>
+<li><a href="mm_html">use molecular mechanics features</a></li>
+<li><a href="mm_html#ff_proplems">handle force field
+problems</a></li>
+<li style="list-style: none"><br /></li>
+<li><a href="scene_html#background_color">change the background
+color of the 3D view</a></li>
+<li><a href="scene_html#lightsources">setup light sources</a></li>
+<li><a href="geometricControl_html#clipping_planes">use clipping
+planes</a></li>
+<li><a href="geometricControl_html#color_surfaces">color
+surfaces</a></li>
+<li><a href=
+"datasetControl_html#calculate_potential_fields">calculate
+potential fields</a></li>
+<li><a href="datasetControl_html#visualise_datasets">visualize data
+grids</a> e.g. for potenial fields</li>
+<li><a href="datasetControl_html#isocontour_surfaces">create
+isocontour surfaces</a></li>
+<li><a href="tips_html#distance_grids">use distance grids</a></li>
+<li><a href="datasetControl_html#visualise_trajectories">visualize
+trajectories</a></li>
+<li><a href="tips_html#hydrogen_bonds">visualize hydrogen
+bonds</a></li>
+<li style="list-style: none"><br /></li>
+<li><a href="pythonInterpreter_html#python_scripts">write Python
+scripts for BALLView</a></li>
+<li><a href="pythonInterpreter_html#completion">use completion and
+context sensitive help in Python</a></li>
+<li><a href="pythonInterpreter_html#startup_script">setup a Python
+startup script</a></li>
+<li><a href="pythonInterpreter_html#create_hotkeys">run
+user-defined scripts through hotkeys</a></li>
+<li style="list-style: none"><br /></li>
+<li><a href="tips_html#povray">use the POVRAY export</a></li>
+<li><a href="tips_html#animations">create animations</a></li>
+<li><a href="tips_html#movies">create movies from pictures</a></li>
+<li><a href="tips_html#3D">view molecules in stereo</a></li>
+</ul>
+</div>
+<h2>Resources</h2>
+<div align="left">
+<ul align="left">
+<li><a href="tips_html">General tips</a></li>
+<li><a href="hotkeys_html">Hotkeys</a></li>
+<li><a href="changelog_html">Changes from previous
+versions</a></li>
+</ul>
+</div>
+<hr width="700" />
+<h2 align="center"><a href="index_html"><img src="images/left.png"
+width="58" height="28" border="0" align="middle" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="index_html">Index</a>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="scene_html"><img src=
+"images/right.png" width="58" height="28" border="0" align=
+"middle" /></a></h2>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+</html>
