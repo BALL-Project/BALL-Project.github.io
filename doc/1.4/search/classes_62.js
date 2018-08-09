@@ -2,6 +2,7 @@ var searchData=
 [
   ['backbonepredicate',['BackBonePredicate',['../db/dd8/classBALL_1_1BackBonePredicate.html',1,'BALL']]],
   ['backtrackingstate_5f',['BackTrackingState_',['../d1/d2a/classBALL_1_1FPTBondOrderStrategy_1_1BackTrackingState__.html',1,'BALL::FPTBondOrderStrategy']]],
+  ['backupdata',['BackupData',['../d5/d41/structBALL_1_1QSAR_1_1RegressionValidation_1_1BackupData.html',1,'BALL::QSAR::RegressionValidation']]],
   ['bagcontentwriter',['BagContentWriter',['../d2/d4e/classBALL_1_1TreeWidth_1_1BagContentWriter.html',1,'BALL::TreeWidth']]],
   ['balabanindexj',['BalabanIndexJ',['../d6/d35/classBALL_1_1BalabanIndexJ.html',1,'BALL']]],
   ['ballplugin',['BALLPlugin',['../d9/d33/classBALL_1_1BALLPlugin.html',1,'BALL']]],
@@ -34,9 +35,9 @@ var searchData=
   ['bit',['Bit',['../d8/d05/classBALL_1_1Bit.html',1,'BALL']]],
   ['bitvector',['BitVector',['../dc/dd9/classBALL_1_1BitVector.html',1,'BALL']]],
   ['block',['block',['../db/dea/classBALL_1_1GAMESSDatFile_1_1block.html',1,'BALL::GAMESSDatFile']]],
+  ['blockvaluetype',['BlockValueType',['../dd/daa/structBALL_1_1TRegularData2D_1_1BlockValueType.html',1,'BALL::TRegularData2D']]],
   ['blockvaluetype',['BlockValueType',['../d1/da6/structBALL_1_1TRegularData3D_1_1BlockValueType.html',1,'BALL::TRegularData3D']]],
   ['blockvaluetype',['BlockValueType',['../df/d14/structBALL_1_1TRegularData1D_1_1BlockValueType.html',1,'BALL::TRegularData1D']]],
-  ['blockvaluetype',['BlockValueType',['../dd/daa/structBALL_1_1TRegularData2D_1_1BlockValueType.html',1,'BALL::TRegularData2D']]],
   ['bond',['Bond',['../d8/d56/classBALL_1_1Bond.html',1,'BALL']]],
   ['bonddata',['BondData',['../dd/d9f/structBALL_1_1MMFF94StretchParameters_1_1BondData.html',1,'BALL::MMFF94StretchParameters']]],
   ['bonditeratortraits',['BondIteratorTraits',['../d2/de1/classBALL_1_1Atom_1_1BondIteratorTraits.html',1,'BALL::Atom']]],

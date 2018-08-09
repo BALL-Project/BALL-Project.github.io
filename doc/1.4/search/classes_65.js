@@ -9,6 +9,7 @@ var searchData=
   ['editfunctions',['EditFunctions',['../d5/dc4/classBALL_1_1VIEW_1_1EditFunctions.html',1,'BALL::VIEW']]],
   ['editoperation',['EditOperation',['../dc/d45/classBALL_1_1VIEW_1_1EditableScene_1_1EditOperation.html',1,'BALL::VIEW::EditableScene']]],
   ['editoperationdialog',['EditOperationDialog',['../d3/d34/classBALL_1_1VIEW_1_1EditOperationDialog.html',1,'BALL::VIEW']]],
+  ['editorpdbinfodialog',['EditorPDBInfoDialog',['../db/d56/classBALL_1_1VIEW_1_1PDBInfoEditorWidget_1_1EditorPDBInfoDialog.html',1,'BALL::VIEW::PDBInfoEditorWidget']]],
   ['editsettings',['EditSettings',['../d9/d07/classBALL_1_1VIEW_1_1EditSettings.html',1,'BALL::VIEW']]],
   ['editsingleshortcut',['EditSingleShortcut',['../d3/d4e/classBALL_1_1VIEW_1_1EditSingleShortcut.html',1,'BALL::VIEW']]],
   ['efshiftprocessor',['EFShiftProcessor',['../d3/d13/classBALL_1_1EFShiftProcessor.html',1,'BALL']]],

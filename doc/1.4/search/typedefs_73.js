@@ -33,6 +33,7 @@ var searchData=
   ['sphericfaceiterator',['SphericFaceIterator',['../df/de7/classBALL_1_1SolventExcludedSurface.html#a6b90fb3e247a0924852b57c873996343',1,'BALL::SolventExcludedSurface']]],
   ['spnode',['SPNode',['../d9/dc8/classBALL_1_1SmartsMatcher.html#a58597d06a200ba0d0954ad341e1d7d31',1,'BALL::SmartsMatcher']]],
   ['stackpages',['StackPages',['../d4/d13/classBALL_1_1VIEW_1_1PreferencesEntry.html#a257b5f0e49b1f24294c315d4d7363693',1,'BALL::VIEW::PreferencesEntry']]],
+  ['streamiterator',['StreamIterator',['../dc/da1/classBALL_1_1LogStream.html#acf475a1a0bfdf79d98a10d4e1acc80c4',1,'BALL::LogStream']]],
   ['stretchbendmap',['StretchBendMap',['../d8/d9c/classBALL_1_1MMFF94StretchBendParameters.html#aab6a666059663ed040861dc5fe0000bf',1,'BALL::MMFF94StretchBendParameters']]],
   ['stretchmap',['StretchMap',['../d7/dca/classBALL_1_1MMFF94StretchParameters.html#a63c9168797a9ebea647f89019e31c947',1,'BALL::MMFF94StretchParameters']]],
   ['string2',['String2',['../dc/d72/namespaceBALL_1_1PDB.html#a1126a57056e8ff2442d285b5e98e4eab',1,'BALL::PDB']]],

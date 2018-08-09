@@ -2,6 +2,7 @@ var searchData=
 [
   ['o',['O',['../d2/d92/group__PTE.html#ggae3600eac9d37fb312bfc105e6b059a32a42936e73aa10a21583a950c841dcb7c0',1,'BALL::Element']]],
   ['object',['OBJECT',['../d3/df5/classBALL_1_1NamedProperty.html#a6c1c545a19dfb73abdc308457bc406a6ae5312bc5e977ee517c6c4ab9ff69d9d3',1,'BALL::NamedProperty']]],
+  ['object_5f_5fmove',['OBJECT__MOVE',['../dc/dda/classBALL_1_1VIEW_1_1MolecularControl.html#ae0db14553842bc670da880949bdec360a539744736055b0d12f14bc81618d5dbb',1,'BALL::VIEW::MolecularControl']]],
   ['oh',['OH',['../d8/da7/classBALL_1_1SmilesParser.html#a573b8be8a27e0749f4c108f2a510152bac2f3821b5e0a634dc7f40b1637ec61f4',1,'BALL::SmilesParser']]],
   ['one_5flabel',['ONE_LABEL',['../d2/d69/classBALL_1_1VIEW_1_1LabelModel.html#abe906b775ce0426e17039f75c8b2057ba49c3fc1cac6532b06713292f2f764c1d',1,'BALL::VIEW::LabelModel']]],
   ['optimize',['OPTIMIZE',['../d4/d57/classBALL_1_1Mutator.html#ae3efa42931d2d5b99f7684c331a49770a53482d55a5a67e6c02fbef8889e5a19e',1,'BALL::Mutator']]],
@@ -17,6 +18,7 @@ var searchData=
   ['os',['Os',['../d2/d92/group__PTE.html#ggae3600eac9d37fb312bfc105e6b059a32a7bd9e3f127776ef503be66ded4666f07',1,'BALL::Element']]],
   ['osmium',['OSMIUM',['../d2/d92/group__PTE.html#gga04eea95569e12fe3e42f9d1223d1b710a7c63f4ff7cfb6be6cf793d6c44e44fed',1,'BALL::Element']]],
   ['overlapping_5fatoms',['OVERLAPPING_ATOMS',['../d2/df8/classBALL_1_1ResidueChecker.html#adf8ce51c22834e9e5fac9ab2c925f5edafc72db3464e75f8bd9d10399cb19672c',1,'BALL::ResidueChecker']]],
+  ['overwrite',['OVERWRITE',['../d9/d29/classBALL_1_1FragmentDB_1_1NormalizeNamesProcessor.html#aa7bf0a47454fda9ad87e72794d614b47af408ceabf13c62be024cc19a28771201',1,'BALL::FragmentDB::NormalizeNamesProcessor']]],
   ['oxygen',['OXYGEN',['../d2/d92/group__PTE.html#gga04eea95569e12fe3e42f9d1223d1b710a094f40160b9ef4a89ce2535a71d8763c',1,'BALL::Element']]],
   ['oxygenium',['OXYGENIUM',['../d2/d92/group__PTE.html#gga04eea95569e12fe3e42f9d1223d1b710ae0637cf1290ba829288a7916d6f66926',1,'BALL::Element']]]
 ];

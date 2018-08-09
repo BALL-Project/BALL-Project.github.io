@@ -18,5 +18,6 @@ var searchData=
   ['nucleotideconstreverseiterator',['NucleotideConstReverseIterator',['../d0/d09/namespaceBALL.html#a99e7764dd09790f3fbd8081782371fba',1,'BALL']]],
   ['nucleotideiterator',['NucleotideIterator',['../d0/d09/namespaceBALL.html#a499394aeb00a8bd140722cd9d9e361e3',1,'BALL']]],
   ['nucleotidelist',['NucleotideList',['../de/d01/group__KernelMiscellaneous.html#ga1c5d0fa8c4887ab5e34093d20897253c',1,'BALL']]],
+  ['nucleotidemap',['NucleotideMap',['../dc/d12/classBALL_1_1NucleotideMapping.html#ad587704dcbc6117418a0f993f2055e08',1,'BALL::NucleotideMapping']]],
   ['nucleotidereverseiterator',['NucleotideReverseIterator',['../d0/d09/namespaceBALL.html#ac9e2e6e8d833f39eb4ae6b5262287a2d',1,'BALL']]]
 ];

@@ -53,6 +53,7 @@ var searchData=
   ['atomdistancecolorprocessor',['AtomDistanceColorProcessor',['../d2/d50/classBALL_1_1VIEW_1_1AtomDistanceColorProcessor.html',1,'BALL::VIEW']]],
   ['atomentry',['AtomEntry',['../d6/d46/structBALL_1_1PDB_1_1Structure_1_1AtomEntry.html',1,'BALL::PDB::Structure']]],
   ['atomicpolarizabilities',['AtomicPolarizabilities',['../d0/da8/classBALL_1_1AtomicPolarizabilities.html',1,'BALL']]],
+  ['atominfo',['AtomInfo',['../d2/dcd/structBALL_1_1Kekuliser_1_1AtomInfo.html',1,'BALL::Kekuliser']]],
   ['atominformationcontent',['AtomInformationContent',['../d2/d17/classBALL_1_1AtomInformationContent.html',1,'BALL']]],
   ['atomiteratortraits',['AtomIteratorTraits',['../d8/df8/classBALL_1_1AtomIteratorTraits.html',1,'BALL']]],
   ['atomnamepredicate',['AtomNamePredicate',['../d5/d8d/classBALL_1_1AtomNamePredicate.html',1,'BALL']]],

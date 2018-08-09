@@ -22,6 +22,7 @@ var searchData=
   ['atomcontaineriterator',['AtomContainerIterator',['../d0/d09/namespaceBALL.html#ad4cd74d26c4062b2aec79585b8e28f6a',1,'BALL']]],
   ['atomcontainerlist',['AtomContainerList',['../de/d01/group__KernelMiscellaneous.html#gaa1362b8e8305e945963a3ee8b94d7edf',1,'BALL']]],
   ['atomcontainerreverseiterator',['AtomContainerReverseIterator',['../d0/d09/namespaceBALL.html#ac7b5306b65a965257b797c4656a61969',1,'BALL']]],
+  ['atomdistancehashmap',['AtomDistanceHashMap',['../d2/d50/classBALL_1_1VIEW_1_1AtomDistanceColorProcessor.html#a98da2957497581163689d37cd59a394e',1,'BALL::VIEW::AtomDistanceColorProcessor']]],
   ['atomgrid',['AtomGrid',['../df/dc3/classBALL_1_1VIEW_1_1ModifyRepresentationDialog.html#a4a5eba207cb7adbfc6c677d60b763674',1,'BALL::VIEW::ModifyRepresentationDialog::AtomGrid()'],['../d2/d27/classBALL_1_1VIEW_1_1ColorProcessor.html#abab887ea1d86a9f80565f7c68200e5ba',1,'BALL::VIEW::ColorProcessor::AtomGrid()']]],
   ['atomicnumber',['AtomicNumber',['../d2/d92/group__PTE.html#ga044491be3ddfdfab8e4106b7c757cd05',1,'BALL::Element']]],
   ['atomindexarray',['AtomIndexArray',['../dd/d95/classBALL_1_1PeriodicBoundary.html#aeca76e90a2a9ec34d7ff2af6741ba8f9',1,'BALL::PeriodicBoundary']]],

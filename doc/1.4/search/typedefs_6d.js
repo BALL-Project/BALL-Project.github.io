@@ -14,7 +14,9 @@ var searchData=
   ['moleculeiterator',['MoleculeIterator',['../d0/d09/namespaceBALL.html#a2b17b94ab2d9cd1346445d6e32009592',1,'BALL']]],
   ['moleculelist',['MoleculeList',['../de/d01/group__KernelMiscellaneous.html#ga2e171f15732e06260c164fa19bd572a6',1,'BALL']]],
   ['moleculereverseiterator',['MoleculeReverseIterator',['../d0/d09/namespaceBALL.html#a545c2f0bf35b9ce7ccf8c807a52f443f',1,'BALL']]],
+  ['mutations',['Mutations',['../d7/d9f/classBALL_1_1DNAMutator.html#ab3d1be1e51219ec9a4670f1f4eb46354',1,'BALL::DNAMutator']]],
   ['mutatorfunction',['MutatorFunction',['../de/dce/classBALL_1_1Enumerator.html#aac2173b6a958e8ed3f9365759a22908f',1,'BALL::Enumerator']]],
   ['mutex',['Mutex',['../d0/d09/namespaceBALL.html#a973c78a12d2d4c404701f52408e1755e',1,'BALL']]],
-  ['mutexlocker',['MutexLocker',['../d0/d09/namespaceBALL.html#a0ec035bac6535831ef6b8469dcb10e8b',1,'BALL']]]
+  ['mutexlocker',['MutexLocker',['../d0/d09/namespaceBALL.html#a0ec035bac6535831ef6b8469dcb10e8b',1,'BALL']]],
+  ['mutiterator',['MutIterator',['../d7/d9f/classBALL_1_1DNAMutator.html#a54af092083ab5ffe52a1e9287bbd1fa4',1,'BALL::DNAMutator']]]
 ];

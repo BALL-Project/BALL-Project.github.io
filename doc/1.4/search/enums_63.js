@@ -17,5 +17,6 @@ var searchData=
   ['comparemode',['CompareMode',['../d3/d4e/classBALL_1_1String.html#a49c46454dd766b7712dfaf3b1682e0ef',1,'BALL::String']]],
   ['compositemessagetype',['CompositeMessageType',['../df/d2d/classBALL_1_1VIEW_1_1CompositeMessage.html#aff0a711cd6574ba6f3d9ccad0d6f1d70',1,'BALL::VIEW::CompositeMessage']]],
   ['contenttype',['ContentType',['../dd/dc8/classBALL_1_1JCAMPFile.html#a7bdad74195e9c349954e351861e3f991',1,'BALL::JCAMPFile']]],
-  ['correctionparameter',['CorrectionParameter',['../d3/d31/classBALL_1_1ShiftedLVMMMinimizer.html#ab8321c6336729b55c6fbe867bf75c93d',1,'BALL::ShiftedLVMMMinimizer']]]
+  ['correctionparameter',['CorrectionParameter',['../d3/d31/classBALL_1_1ShiftedLVMMMinimizer.html#ab8321c6336729b55c6fbe867bf75c93d',1,'BALL::ShiftedLVMMMinimizer']]],
+  ['countingmode',['CountingMode',['../d9/d29/classBALL_1_1FragmentDB_1_1NormalizeNamesProcessor.html#aa7bf0a47454fda9ad87e72794d614b47',1,'BALL::FragmentDB::NormalizeNamesProcessor']]]
 ];

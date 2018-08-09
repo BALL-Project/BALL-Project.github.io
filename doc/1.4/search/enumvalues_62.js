@@ -15,6 +15,7 @@ var searchData=
   ['bk',['Bk',['../d2/d92/group__PTE.html#ggae3600eac9d37fb312bfc105e6b059a32a8239b00e7c6e7f84222acf6e91d76a0d',1,'BALL::Element']]],
   ['blue_5fchannel',['BLUE_CHANNEL',['../dd/d4b/structBALL_1_1VIEW_1_1ChannelFormat.html#aec726c672b022124f86b9ab7fb70d922aa97de1d3a0dc5dbf0b928cfefdeb0660',1,'BALL::VIEW::ChannelFormat']]],
   ['bohrium',['BOHRIUM',['../d2/d92/group__PTE.html#gga04eea95569e12fe3e42f9d1223d1b710a2dc0f5f4117acb5140882375f04ccca0',1,'BALL::Element']]],
+  ['bond_5f_5fproperties',['BOND__PROPERTIES',['../dc/dda/classBALL_1_1VIEW_1_1MolecularControl.html#ae0db14553842bc670da880949bdec360ae9e75bc4497b0309664041214ad4bc6c',1,'BALL::VIEW::MolecularControl']]],
   ['bondtype_5f_5fany',['BONDTYPE__ANY',['../de/dc2/classBALL_1_1ConnectedToPredicate_1_1CTPNode.html#ae89af724912c5c6be3fb8545e9ccaaa2a19c65b2d46a9fd23fc8bccc8d86dbb6f',1,'BALL::ConnectedToPredicate::CTPNode']]],
   ['bondtype_5f_5faromatic',['BONDTYPE__AROMATIC',['../de/dc2/classBALL_1_1ConnectedToPredicate_1_1CTPNode.html#ae89af724912c5c6be3fb8545e9ccaaa2a5bfbc8ecbf095ac6d30bd0a34a45aa11',1,'BALL::ConnectedToPredicate::CTPNode']]],
   ['bondtype_5f_5fdouble',['BONDTYPE__DOUBLE',['../de/dc2/classBALL_1_1ConnectedToPredicate_1_1CTPNode.html#ae89af724912c5c6be3fb8545e9ccaaa2a30c7e5e78899eb2031ec3af61cf7168c',1,'BALL::ConnectedToPredicate::CTPNode']]],

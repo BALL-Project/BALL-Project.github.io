@@ -1,4 +1,5 @@
 var searchData=
 [
+  ['xdrpersistencemanager',['XDRPersistenceManager',['../d2/dcd/classBALL_1_1XDRPersistenceManager.html#a8726ae6b6cca2fecb3b390c389224bfd',1,'BALL::XDRPersistenceManager::XDRPersistenceManager()'],['../d2/dcd/classBALL_1_1XDRPersistenceManager.html#a8ded981e3f649789b6a411eb26ea50f1',1,'BALL::XDRPersistenceManager::XDRPersistenceManager(std::istream &amp;is)'],['../d2/dcd/classBALL_1_1XDRPersistenceManager.html#a21fd87bcfa5073a8d58f340e1a573593',1,'BALL::XDRPersistenceManager::XDRPersistenceManager(std::ostream &amp;os)'],['../d2/dcd/classBALL_1_1XDRPersistenceManager.html#a27d83a7e66911618985fae1e0e417c4c',1,'BALL::XDRPersistenceManager::XDRPersistenceManager(std::istream &amp;is, std::ostream &amp;os)']]],
   ['xyzfile',['XYZFile',['../da/dbb/classBALL_1_1XYZFile.html#a9db672ddf5fc263305d9a0e35a756f2f',1,'BALL::XYZFile::XYZFile()'],['../da/dbb/classBALL_1_1XYZFile.html#a6bebdc877aafaf43d96fd76385bdccce',1,'BALL::XYZFile::XYZFile(const String &amp;filename, File::OpenMode open_mode=std::ios::in)']]]
 ];
